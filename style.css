@@ -14,13 +14,12 @@ body {
 .exp-header {
   text-align: center;
   text-transform:uppercase;
-  border-top: 1px solid #000000;
-  border-bottom: 1px solid #000000;
-  background-color: rgba (0,0,0,0.1)
+  border-top: 2px solid ;
+  border-bottom: 2px solid;
 }
 
 body {
-  width: 960px;
-  height: 2000px;
-  background-image: linear-gradient(red,blue,purple,gray,white,magenta,yellow,green);
+  background-image: url("https://render.fineartamerica.com/images/images-profile-flow/400/images-medium-large-5/f15-low-level-rory-trappe.jpg");
+  background-size:cover;
+  background-attachment: fixed;
 }
