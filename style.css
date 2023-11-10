@@ -3,6 +3,7 @@ h5 {margin-top: 0;}
 h5 {margin-bottom: 0;}
 h6 {margin-top: 0;}
 h6 {margin-bottom: 0;}
+
 body {
   background-color: #444444;
   color: #dddddd
@@ -13,8 +14,14 @@ body {
 .exp-header {
   text-align: center;
   text-transform:uppercase;
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-  background-color: rgba (0,0,0,0.2)
+  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+  background-color: rgba (0,0,0,0.1)
+}
+
+body {
+  width: 240px;
+  height: 240px;
+  background-image: conic-gradient(red 60deg,blue 120deg,purple 180deg,gray 240deg,white 280deg,magenta 320deg);
 }
 
