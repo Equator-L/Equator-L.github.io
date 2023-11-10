@@ -21,6 +21,6 @@ body {
 
 body {
   width: 960px;
-  height: 960px;
-  background-image: conic-gradient(red,blue,purple,gray,white,magenta);
+  height: 2000px;
+  background-image: conic-gradient(red,blue,purple,gray,white,magenta,yellow,green);
 }
