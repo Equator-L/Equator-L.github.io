@@ -22,5 +22,5 @@ body {
 body {
   width: 960px;
   height: 2000px;
-  background-image: conic-gradient(red,blue,purple,gray,white,magenta,yellow,green);
+  background-image: linear-gradient(red,blue,purple,gray,white,magenta,yellow,green);
 }
