@@ -20,8 +20,7 @@ body {
 }
 
 body {
-  width: 240px;
-  height: 240px;
-  background-image: conic-gradient(red 60deg,blue 120deg,purple 180deg,gray 240deg,white 280deg,magenta 320deg);
+  width: 960px;
+  height: 960px;
+  background-image: conic-gradient(red,blue,purple,gray,white,magenta);
 }
-
